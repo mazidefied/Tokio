@@ -35,7 +35,7 @@ Coded by Milez
 in memory of Tokio from 
 LaCasa de papel
 
- Team : MillerSec
+ Team : MillerSec || CyberXploitTeam
        https.fb.me/miller742
 ''' 
 print banner
@@ -156,7 +156,9 @@ def  select():
       slowprint("./Hanz")
       slowprint("Shanki")
       slowprint("Star-Ford")
+      slowprint("Akash_Hamal")
       slowprint("Saitama")
+      slowprint(" CyberXploitTeam ")
       slowprint("https://fb.me/miller742")
       slowprint("........")
       slowprint("...................... ")

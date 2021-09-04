@@ -154,7 +154,7 @@ def  select():
       slowprint("Members")
       slowprint("Milez")
       slowprint("./Hanz")
-      slowprint("Shanki")
+      slowprint("Shaki")
       slowprint("Star-Ford")
       slowprint("Akash_Hamal")
       slowprint("Saitama")

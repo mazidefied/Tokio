@@ -2,7 +2,8 @@
 All tools needed for info gathering.
 ## USAGE
 
-`chmod +x Tokio.py
-python2 Tokio.py
-`
+`chmod +x Tokio.py`
+
+`python2 Tokio.py`
+
 
